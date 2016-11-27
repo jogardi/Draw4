@@ -1,0 +1,26 @@
+-------------------------------------------------------------------------------
+Test set: com.joseph.draw4.client.GwtTestDraw4
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 5.931 sec <<< FAILURE!
+testIt(com.joseph.draw4.client.GwtTestDraw4)  Time elapsed: 5.918 sec  <<< ERROR!
+com.google.gwt.junit.JUnitFatalLaunchException: com.google.gwt.core.ext.UnableToCompleteException: (see previous log entries)
+	at com.google.gwt.junit.JUnitShell.runTestImpl(JUnitShell.java:1351)
+	at com.google.gwt.junit.JUnitShell.runTestImpl(JUnitShell.java:1284)
+	at com.google.gwt.junit.JUnitShell.runTest(JUnitShell.java:678)
+	at com.google.gwt.junit.client.GWTTestCase.runTest(GWTTestCase.java:421)
+	at junit.framework.TestCase.runBare(TestCase.java:141)
+	at junit.framework.TestResult$1.protect(TestResult.java:122)
+	at junit.framework.TestResult.runProtected(TestResult.java:142)
+	at junit.framework.TestResult.run(TestResult.java:125)
+	at junit.framework.TestCase.run(TestCase.java:129)
+	at com.google.gwt.junit.client.GWTTestCase.run(GWTTestCase.java:247)
+	at junit.framework.TestSuite.runTest(TestSuite.java:255)
+	at junit.framework.TestSuite.run(TestSuite.java:250)
+	at org.codehaus.mojo.gwt.test.MavenTestRunner.doRun(MavenTestRunner.java:105)
+	at junit.textui.TestRunner.start(TestRunner.java:183)
+	at org.codehaus.mojo.gwt.test.MavenTestRunner.main(MavenTestRunner.java:63)
+Caused by: com.google.gwt.core.ext.UnableToCompleteException: (see previous log entries)
+	at com.google.gwt.junit.RunStyleSelenium.launchModule(RunStyleSelenium.java:387)
+	at com.google.gwt.junit.JUnitShell.runTestImpl(JUnitShell.java:1347)
+	... 14 more
+
