@@ -6,3 +6,7 @@ If you click the touch gesture icon in the top left corner then it will draw a s
 and draw a triangle when you try to draw a traingle.
 
 To undo mistakes drag the slider at the top. Then click revert when you are back at the version you want.
+
+
+
+The presentation with video demo included is in the root directory.
