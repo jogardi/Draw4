@@ -2,16 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" readonly="true" id="f15a0701-bae6-497f-a8d3-5a9d81e81b22" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.2.1" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/cache.properties.lock" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileHashes.bin" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/fileSnapshots.bin" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/outputFileStates.bin" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/taskArtifacts.bin" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.settings/gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/main" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/main/com" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/main/com/google" />
@@ -74,8 +70,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/test/com/joseph/draw4" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/test/com/joseph/draw4/client" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/classes/test/com/joseph/draw4/client/SeleniumTestDraw4.class" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/libs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/putnami" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/putnami/extra" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/putnami/extra/Draw4" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/putnami/extra/Draw4/cssResource" />
@@ -157,13 +151,11 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/putnami/work/com.joseph.draw4.Draw4/compiler" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/putnami/work/com.joseph.draw4.Shared" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/putnami/work/com.joseph.draw4.Shared/compiler" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/reports" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/classes" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/css" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/packages" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/resources" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/resources/main" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/resources/main/com" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/resources/main/com/joseph" />
@@ -173,19 +165,13 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/resources/test/com" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/resources/test/com/joseph" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/resources/test/com/joseph/draw4" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/test-results" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/test-results/binary" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/test-results/binary/test" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/test-results/binary/test/output.bin.idx" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/tmp" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.jar" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/webapp/WEB-INF/lib/gwt-servlet.jar" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.gradle/2.2.1/taskArtifacts/cache.properties" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/.settings/gradle/org.springsource.ide.eclipse.gradle.core.prefs" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build.gradle" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/putnami/extra/gen/com/allen_sauer/gwt/log/client/LogMessageFormatterImpl.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/putnami/extra/gen/com/allen_sauer/gwt/log/client/impl/LogClientBundle_default_InlineClientBundleGenerator.java" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/putnami/extra/gen/com/github/gwtbootstrap/client/ui/resources/Resources_default_InlineClientBundleGenerator.java" />
@@ -295,9 +281,6 @@
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/reports/tests/js/report.js" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/build/test-results/TEST-com.joseph.draw4.client.SeleniumTestDraw4.xml" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradlew" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/gradlew.bat" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/settings.gradle" />
       <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/src/main/java/com/joseph/draw4/shared/UserServiceAsync.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/libs/draw4-0.0.1-SNAPSHOT.war" afterPath="$PROJECT_DIR$/build/libs/draw4-0.0.1-SNAPSHOT.war" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/libs/draw4.war" afterPath="$PROJECT_DIR$/build/libs/draw4.war" />
@@ -360,10 +343,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/putnami/work/cahce/gwt-unitCache/gwt-unitCache-c2c3dd5baf648a0bb199047a818be5e560f48982-0000014B9876382E" afterPath="$PROJECT_DIR$/build/putnami/work/cahce/gwt-unitCache/gwt-unitCache-c2c3dd5baf648a0bb199047a818be5e560f48982-0000014B9876382E" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/putnami/work/cahce/gwt-unitCache/gwt-unitCache-c2c3dd5baf648a0bb199047a818be5e560f48982-0000014B98763849" afterPath="$PROJECT_DIR$/build/putnami/work/cahce/gwt-unitCache/gwt-unitCache-c2c3dd5baf648a0bb199047a818be5e560f48982-0000014B98763849" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/test-results/binary/test/results.bin" afterPath="$PROJECT_DIR$/build/test-results/binary/test/results.bin" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.classpath" afterPath="$PROJECT_DIR$/.classpath" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.project" afterPath="$PROJECT_DIR$/.project" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.settings/com.google.gwt.eclipse.core.prefs" afterPath="$PROJECT_DIR$/.settings/com.google.gwt.eclipse.core.prefs" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.component" afterPath="$PROJECT_DIR$/.settings/org.eclipse.wst.common.component" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/putnami/extra/Draw4/rpcPolicyManifest/manifest.txt" afterPath="$PROJECT_DIR$/build/putnami/extra/Draw4/rpcPolicyManifest/manifest.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/putnami/extra/Draw4/rpcPolicyManifest/manifests/E00B16448C5BCA746CE036AA083E51CA.txt" afterPath="$PROJECT_DIR$/build/putnami/extra/Draw4/rpcPolicyManifest/manifests/E00B16448C5BCA746CE036AA083E51CA.txt" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/putnami/extra/Shared/rpcPolicyManifest/manifest.txt" afterPath="$PROJECT_DIR$/build/putnami/extra/Shared/rpcPolicyManifest/manifest.txt" />
@@ -392,7 +371,6 @@
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/resources/main/com/joseph/draw4/client/Messages_fr.properties" afterPath="$PROJECT_DIR$/build/resources/main/com/joseph/draw4/client/Messages_fr.properties" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/resources/test/com/joseph/draw4/Draw4JUnit.gwt.xml" afterPath="$PROJECT_DIR$/build/resources/test/com/joseph/draw4/Draw4JUnit.gwt.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/build/tmp/war/MANIFEST.MF" afterPath="$PROJECT_DIR$/build/tmp/war/MANIFEST.MF" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/pom.xml" afterPath="$PROJECT_DIR$/pom.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/joseph/draw4/client/PluginManager.java" afterPath="$PROJECT_DIR$/src/main/java/com/joseph/draw4/client/PluginManager.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/joseph/draw4/client/ZGinModule.java" afterPath="$PROJECT_DIR$/src/main/java/com/joseph/draw4/client/ZGinModule.java" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/com/joseph/draw4/client/ZHistoryConverter.java" afterPath="$PROJECT_DIR$/src/main/java/com/joseph/draw4/client/ZHistoryConverter.java" />
